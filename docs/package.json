@@ -15,6 +15,7 @@
     "@agntn/explorers": "0.5.3",
     "@agntn/keys": "0.3.0",
     "@noble/hashes": "2.4.0",
+    "@vercel/speed-insights": "^2.0.0",
     "better-sqlite3": "12.11.1",
     "docus": "5.13.0",
     "nuxt": "4.5.2"

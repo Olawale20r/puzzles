@@ -27,6 +27,7 @@ const libraryEntries = [
 
 export default defineNuxtConfig({
   extends: ["docus"],
+  modules: ["@vercel/speed-insights/nuxt"],
   /** The repo root is its own pnpm workspace; Nuxt must not treat it as this site's. */
   workspaceDir: import.meta.dirname,
   alias: {
